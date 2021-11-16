@@ -1,0 +1,11 @@
+@tailwind base;
+/* custom tailwind */
+.link {
+  transition: padding, background-color 0.3s linear;
+}
+.side-bar {
+  transition: transform 0.3s linear;
+}
+/* custom tailwind */
+@tailwind components;
+@tailwind utilities;
