@@ -1,2 +1,3 @@
-# SideBar
-create sidebar using Tailwind and React js
+## SideBar
+## Responsive SideBar with simple Ui
+create sidebar using Tailwind css and React js
